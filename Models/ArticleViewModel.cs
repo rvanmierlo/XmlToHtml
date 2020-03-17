@@ -28,7 +28,8 @@ namespace XmlToHtml.Models
         {
             _sections = _document.Document.Root.Elements(RapDocument.Namespace + "section").Select(item => new SectionViewModel(item)
             {
-                SubTitle = item.Element(RapDocument.Namespace + "subtitle").Value
+                SubTitle = item.Element(RapDocument.Namespace + "subtitle")?.Value,
+                Paragraph = item.Element(RapDocument.Namespace + "para")?.Value
             }).ToList<SectionViewModel>();
         }
 

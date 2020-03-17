@@ -8,7 +8,7 @@ using XmlToHtml.Models;
 namespace XmlToHtml.Helpers
 {
     [HtmlTargetElement("article")]
-    [RestrictChildren("section", "list-item")]
+    [RestrictChildren("section", "itemized-list", "list-item")]
     public class ArticleTagHelper : TagHelper
     {
         public ArticleViewModel Model { get; set; }

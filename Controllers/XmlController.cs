@@ -23,7 +23,7 @@ namespace XmlToHtml.Controllers
 
         public IActionResult Test()
         {
-            RapDocument model = new RapDocument("Resources/TestDocument.xml");
+            RapDocument model = new RapDocument("Resources/TestDocumentListInList.xml");
             return View(model);
         }
     }

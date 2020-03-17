@@ -17,6 +17,7 @@ namespace XmlToHtml.Models
             _element = element;
         }
         public string SubTitle { get; set; }
+        public string Paragraph { get; set; }
 
         public IEnumerable<ListViewModel> Lists
         {
@@ -25,10 +26,9 @@ namespace XmlToHtml.Models
 
         public void ParseChildren()
         {
-            _lists = _element.Descendants(RapDocument.Namespace + "listitem").Select(item => new ListViewModel(item)
-            {
-                Content = item.Element(RapDocument.Namespace + "para").Value
-            }).ToList<ListViewModel>();
+            _lists = _element.Elements(RapDocument.Namespace + "itemizedlist")
+                .Where(item => (string)item.Attribute("id") == "8273")
+                .Select(item => new ListViewModel(item)).ToList<ListViewModel>();
         }
 
     }

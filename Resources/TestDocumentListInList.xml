@@ -1,0 +1,275 @@
+<article xmlns="http://ijk.nl/ns/rapbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <subtitle>1</subtitle>
+  <title>Artikel 1 Begripsomschrijvingen</title>
+  <section>
+    <para>Deze verordening verstaat onder:</para>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>
+          <emphasis role="strong">ambtenaar</emphasis>:<orderedlist numeration="arabic"><listitem><para>de ambtenaar in de zin van de CAR/UWO:</para></listitem><listitem><para>de werknemer als bedoeld in <link xlink:href="11a37c77-6a6f-4c9a-b263-98b81aca7dd4">artikel 2:5</link> van de CAR/UWO;</para></listitem></orderedlist></para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">salaris</emphasis>:<emphasis role="newline" /> het salaris, als bedoeld in <link xlink:href="e67b230f-fa30-48b5-b03d-4464ce8bb959">artikel 3:1</link>, tweede lid onder b van de CAR/UWO. Indien er voor de betrekking een vast bedrag geldt, het bedrag zoals vermeld in <link xlink:href="326f7d91-b275-42be-92aa-96c258fa26e9">bijlage 1</link> van deze verordening;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">uurloon</emphasis>:<emphasis role="newline" /> het uurloon, als bedoeld in <link xlink:href="bd2d0d8b-d470-4287-a0db-75f90863be52">artikel 1:1</link> eerste lid onder o van de CAR/UWO;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">schaal</emphasis>:<emphasis role="newline" /> de schaal als bedoeld in <link xlink:href="44d9e86b-cac5-47e8-848f-42a8783af066">artikel 3:1</link>, tweede lid onder a, van de CAR/UWO opgenomen in <link xlink:href="f741c51d-1425-458a-a1ca-7e1af8f3c6ce">bijlage IIa</link> van die regeling;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">maximumsalaris</emphasis>:<emphasis role="newline" /> het hoogste bedrag van de salarisschaal;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">functionele schaal</emphasis>:<emphasis role="newline" /> de schaal, die aan de hand van een functiewaarderingsonderzoek voor de functie is vastgesteld;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">aanloopschaal</emphasis>:<emphasis role="newline" /> de schaal in rangorde voorafgaand aan de functionele schaal;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">bezoldiging</emphasis>:<emphasis role="newline" /> de bezoldiging als bedoeld in <link xlink:href="502f8274-92c4-4295-a594-0160f4b0c8f0">artikel 3:1</link>, tweede lid onder c, van de CAR/UWO;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">betrekking</emphasis>:<emphasis role="newline" /> de betrekking als bedoeld in <link xlink:href="912cc748-e7c3-49ef-b5d5-9c322e12f090">artikel 1:1</link>, eerste lid onder b, van de CAR/UWO;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">conversie</emphasis>:<emphasis role="newline" /> de vertaling van de gevonden rangorde naar salarisschalen;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">volledige betrekking</emphasis>:<emphasis role="newline" /> de volledige betrekking als bedoeld in <link xlink:href="21111439-27db-4407-856d-157e9ef85e51">artikel 1:1</link>, eerste lid onder k, van de CAR/UWO;</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">overwerk</emphasis>:<emphasis role="newline" /> het overwerk als bedoeld in <link xlink:href="839a5ed5-31f0-4c94-b3df-0270e81ee1cb">artikel 1:1</link>, eerste lid onder l, van de CAR/UWO.</para>
+      </listitem>
+    </orderedlist>
+    <para>Custom shizzle</para>
+    <itemizedlist mark="square">
+      <listitem>
+        <para>Square list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="underline">
+            <emphasis>
+              <emphasis role="strong">Square list item 2</emphasis>
+            </emphasis>
+          </emphasis>
+          <emphasis role="strong">bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>Lower alpha list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Lower alpha list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist numeration="upperalpha">
+      <listitem>
+        <para>Upper alpha list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Upper alpha list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Numeric list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Numeric list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist numeration="upperroman">
+      <listitem>
+        <para>Roman list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Roman list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </orderedlist>
+    <itemizedlist mark="bullet">
+      <listitem>
+        <para>Bullet list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Bullet list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="none">
+      <listitem>
+        <para>Geen kenmerk (none) list item 1</para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis role="strong">
+            <emphasis>
+              <emphasis role="underline">Geen kenmerk (none) list item 2</emphasis>
+            </emphasis>bold</emphasis>
+          <emphasis>italic</emphasis>
+          <emphasis role="underline">underlined</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist id="8273" mark="square">
+      <listitem>
+        <para>Listception down under:</para>
+      </listitem>
+      <listitem>
+        <para>
+          <itemizedlist mark="square">
+            <listitem>
+              <para>Sub list 1</para>
+            </listitem>
+            <listitem>
+              <para>
+                <orderedlist numeration="upperroman">
+                  <listitem>
+                    <para>Sub list 2</para>
+                  </listitem>
+                  <listitem>
+                    <para>Roman voor sub list 2</para>
+                  </listitem>
+                  <listitem>
+                    <para>
+                      <orderedlist numeration="upperalpha">
+                        <listitem>
+                          <para>Sub list 3</para>
+                        </listitem>
+                        <listitem>
+                          <para>Alpha upper voor sub list 3</para>
+                        </listitem>
+                        <listitem>
+                          <para>
+                            <orderedlist numeration="loweralpha">
+                              <listitem>
+                                <para>Sub list 4</para>
+                              </listitem>
+                              <listitem>
+                                <para>Alpha lower voor sub list 4</para>
+                              </listitem>
+                              <listitem>
+                                <para>
+                                  <itemizedlist mark="bullet">
+                                    <listitem>
+                                      <para>Sub list 5</para>
+                                    </listitem>
+                                    <listitem>
+                                      <para>Bullet items voor sub list 5</para>
+                                    </listitem>
+                                    <listitem>
+                                      <para>
+                                        <itemizedlist mark="none">
+                                          <listitem>
+                                            <para>Sub list 6</para>
+                                          </listitem>
+                                          <listitem>
+                                            <para>Geen items (none) voor sub list 6 </para>
+                                          </listitem>
+                                        </itemizedlist>
+                                      </para>
+                                    </listitem>
+                                  </itemizedlist>
+                                </para>
+                              </listitem>
+                            </orderedlist>
+                          </para>
+                        </listitem>
+                      </orderedlist>
+                    </para>
+                  </listitem>
+                </orderedlist>
+              </para>
+            </listitem>
+          </itemizedlist>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <para>Een lege list zonder items</para>
+    <itemizedlist mark="none">
+      <listitem>
+        <para>
+          <itemizedlist mark="none">
+            <listitem>
+              <para>
+                <itemizedlist mark="none">
+                  <listitem>
+                    <para>
+                      <itemizedlist mark="none">
+                        <listitem>
+                          <para>
+                            <itemizedlist mark="none">
+                              <listitem>
+                                <para>
+                                  <itemizedlist mark="none">
+                                    <listitem>
+                                      <para>Een lege list op deze na</para>
+                                    </listitem>
+                                  </itemizedlist>
+                                </para>
+                              </listitem>
+                            </itemizedlist>
+                          </para>
+                        </listitem>
+                      </itemizedlist>
+                    </para>
+                  </listitem>
+                </itemizedlist>
+              </para>
+            </listitem>
+          </itemizedlist>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</article>
